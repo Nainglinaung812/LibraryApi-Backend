@@ -24,3 +24,13 @@ This is a backend RESTful API built with **ASP.NET Core** and **EF Core** as par
    ```bash
    docker-compose up --build
    ```
+
+## 📈 10-Day Intensive Learning Journey
+
+This project is the result of a structured 10-day challenge (April 27 - May 2) focused on rapid backend development mastery:
+
+- **Days 1-3**: C# fundamentals, Object-Oriented Programming (OOP), and logic building.
+- **Days 4-6**: ASP.NET Core Web API architecture, Controllers, and CRUD operations.
+- **Days 7-8**: Entity Framework Core, Database Migrations, and SQL Server integration.
+- **Day 9**: Containerization with Docker and Docker Compose.
+- **Day 10**: Professional Documentation and Portfolio Deployment.
