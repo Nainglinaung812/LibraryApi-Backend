@@ -7,6 +7,7 @@
 // dotnet build
 using Microsoft.EntityFrameworkCore;
 using LibraryApi.Models;// ညီလေးရဲ့ Model folder ကို ညွှန်းပါ
+// using Microsoft.EntityFrameworkCore;
 namespace LibraryApi.Data;
 
 public class AppDbContext : DbContext
