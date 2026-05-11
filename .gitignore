@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+# appsettings ဖိုင်တွေကို ဖျောက်ထားမယ်
+appsettings.json
+appsettings.Development.json
